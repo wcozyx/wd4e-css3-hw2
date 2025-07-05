@@ -36,14 +36,14 @@ div {
     justify-content: space-around;
 }
 
-.neighborhood {
+.grid {
     align-items: center;   
     display:grid;
     grid-template-columns: 40% 40%;
     row-gap: 30px;
 }
 
-.neighborhood img {
+.grid img {
     width: 100%;
     height: auto;
 }
